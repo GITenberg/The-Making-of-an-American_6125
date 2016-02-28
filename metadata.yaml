@@ -1,0 +1,29 @@
+_repo: The-Making-of-an-American_6125
+creator:
+  author:
+    agent_name: Riis, Jacob A. (Jacob August)
+    alias: Riis, Jacob August
+    birthdate: 1849
+    deathdate: 1914
+    gutenberg_agent_id: '1960'
+    url: http://www.gutenberg.org/2009/agents/1960
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Riis
+description: Riis was born in Denmark in 1849, a carpenter by trade, he emigrated
+  to America in 1870. After a period of unemployment and poverty he became crime reporter
+  for the New York Tribune conssistently presenting the poor as victims of rather
+  than the makers of their fate. A pioneer of flash photography, he later became associated
+  with "muck raking" journalism. He wrote and lectured on the poor and published over
+  a dozen books.
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6125'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Riis, Jacob A. (Jacob August), 1849-1914'
+title: The Making of an American
+url: http://www.gutenberg.org/ebooks/6125
