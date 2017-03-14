@@ -1,5 +1,8 @@
 _repo: The-Making-of-an-American_6125
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Riis, Jacob A. (Jacob August)
@@ -15,6 +18,8 @@ description: Riis was born in Denmark in 1849, a carpenter by trade, he emigrate
   than the makers of their fate. A pioneer of flash photography, he later became associated
   with "muck raking" journalism. He wrote and lectured on the poor and published over
   a dozen books.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6125#The-Making-of-an-American
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
 identifiers:
